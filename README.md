@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Eduardo Castro do Nascimento 👋</h1>
+<h1 align="center">Olá, eu sou o Eduardo Castro do Nascimento</h1>
 
 <p align="center">
   <em>Desenvolvedor Full Stack</em>
@@ -6,13 +6,13 @@
 
 ---
 
-### 👩‍💻 Sobre Mim
+### Sobre Mim
 - ⚛️ Desenvolvedor focado em **JavaScript/TypeScript**.
 - 🔭 Procuro colaborar em **projetos Open Source**.
 
 ---
 
-### 🛠️ Principais Tecnologias
+### Principais Tecnologias
 
 <div align="center">
   <br>
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Duzim">
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/duzim" target="_blank">
@@ -54,7 +54,7 @@
   </a>
 </div>
 
-### 🐍 Minhas Contribuições:
+### Minhas Contribuições:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duzim/Duzim/output/github-contribution-grid-snake-dark.svg">
