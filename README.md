@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/Duzim">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duzim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duzim&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duzim&show_icons=true&theme=dracula&include_all_commits=true&v=1" alt="Estatísticas do GitHub"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duzim&layout=compact&theme=dracula&v=1" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
