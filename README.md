@@ -73,6 +73,33 @@
 
 ---
 
+### Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Duzim">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duzim&show_icons=true&theme=dracula&include_all_commits=true&v=1" alt="Estatísticas do GitHub"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duzim&layout=compact&theme=dracula&v=1" alt="Linguagens mais usadas"/>
+  </a>
+</div>
+
+---
+
+### Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/duzim" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:eduardocastrodonascimento@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/uaiduzim" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
 ### Languages and Tools
 
 <p align="left">
@@ -108,33 +135,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20" height="20" alt="Google Cloud Platform" title="Google Cloud Platform" />
   <img src="https://cdn.simpleicons.org/mqtt/660066" width="20" height="20" alt="MQTT" title="MQTT" />
 </p>
-
----
-
-### Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Duzim">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duzim&show_icons=true&theme=dracula&include_all_commits=true&v=1" alt="Estatísticas do GitHub"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duzim&layout=compact&theme=dracula&v=1" alt="Linguagens mais usadas"/>
-  </a>
-</div>
-
----
-
-### Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/duzim" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:eduardocastrodonascimento@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/uaiduzim" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
 
 ---
 
