@@ -77,7 +77,7 @@
 
 ### Languages and Tools
 
-<div align="center" style="padding: 5px; width: 50vw">
+<div >
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="20" height="20" alt="Rust" title="Rust" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript" title="JavaScript" />
