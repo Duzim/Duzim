@@ -55,8 +55,8 @@
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" />
-      <br>Ubuntu
+      <img src="https://camo.githubusercontent.com/dd75d21504d085f26ff74430df94f208f23beb055880df2bd5faa1219e87d6d8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667">
+      <br>C#
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
